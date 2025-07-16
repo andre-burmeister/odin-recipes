@@ -1,0 +1,2 @@
+This is a simple HTML project, inspired by the lesson named "Project: Recipes" from The Odin Project's Foundations course. 
+It's meant to practice the HTML learned in the "HTML Foundations" part of the course.
