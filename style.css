@@ -1,6 +1,9 @@
+/* Styles applied to all pages: */
+
 * {
   margin: 0;
   box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .page {
@@ -11,42 +14,77 @@
 }
 
 h1 {
-  padding: 10px;
-  margin-bottom: 40px;
-
+  margin-bottom: 20px;
   background-color: #ffc13b;
+}
+
+h1 a span {
+  display: block;
+
+  padding: 10px;
   color: #703800;
 
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   font-size: 50px;
-
+  margin: 0
 }
 
-ul {
+a {
+  color: #000000c6;
+}
+
+/* Styles applied to home page: */
+
+.home ul {
   list-style: none;
+  margin-top: 40px
 }
 
-span {
-  font-family: Arial, Helvetica, sans-serif;
+.home li a span {
   font-size: 30px;
   color: #000000c6;
 }
 
-li, span {
+.home li, span {
   margin: 10px 0;
   padding: 10px;
 }
 
-#tomato {
+.home #tomato {
   background-color: red;
 }
 
-#spinach {
+.home #spinach {
   background-color: #2cbd00;
 }
 
-#peach {
+.home #peach {
   background-color: #ff9500;
 }
+
+
+/* Styles applied to recipes: */
+
+.recipe h2 {
+  font-size: 30px;
+  color: #000000c6;
+  margin: 10px;
+  padding: 10px;
+  background-color: red;
+}
+
+.recipe .content {
+  margin: 10px 0;
+  padding: 20px;
+  background-color: rgba(255, 0, 0, 0.573);
+}
+
+.recipe h3 {
+  font-size: 20px;
+  margin: 0 -20px 15px -20px;
+  padding: 5px;
+  background-color: red;
+}
+
+
