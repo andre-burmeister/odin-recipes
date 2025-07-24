@@ -1,6 +1,8 @@
 This is a simple HTML project, inspired by the lesson named "Project: Recipes" from The Odin Project's Foundations course. 
 It's meant to practice the HTML learned in the "HTML Foundations" part of the course.
 
+The project result can be accessed on https://andre-burmeister.github.io/odin-recipes/.
+
 The Tomato Sauce Image was posted by user Alpha in Flickr. I can be found at https://www.flickr.com/photos/avlxyz/3825429505
 
 The "Best Spinach Dip Ever" recipe was taken from https://www.allrecipes.com/recipe/22617/best-spinach-dip-ever/
