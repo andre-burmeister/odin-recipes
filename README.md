@@ -1,4 +1,4 @@
-This is a simple HTML project, inspired by the lesson named "Project: Recipes" from The Odin Project's Foundations course. 
+This is a simple HTML project, inspired by the lesson named "Project: Recipes" from The Odin Project's Foundations course. The CSS was added later in the lesson "Block and Inline" from the "CSS Foundations" part of the Foundations course.
 It's meant to practice the HTML learned in the "HTML Foundations" part of the course.
 
 The project result can be accessed on https://andre-burmeister.github.io/odin-recipes/.
